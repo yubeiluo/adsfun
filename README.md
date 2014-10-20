@@ -11,6 +11,7 @@ Adroll
 ======
 1. [Homepage](https://www.adroll.com/)
 1. [Rollin' out Retargeting on Facebook Exchange(FBX)](http://blog.adroll.com/retargeting-facebook-exchange-fbx)
+1. [Segmenting site visitors](http://support.adroll.com/segmenting-site-visitors/)
 
 Blogs
 ======
