@@ -16,6 +16,7 @@ IDs
 5. idfa: identifier for advertising
 6. open_idfa: 
 7. [苹果为什么开始拒绝 iOS 应用获取设备的 UDID](http://www.zhihu.com/question/20141418)
+8. [iOS7时代我们用什么来追踪和识别用户？](http://www.cnblogs.com/BigPolarBear/p/3359526.html)
 
 Adroll
 ======
